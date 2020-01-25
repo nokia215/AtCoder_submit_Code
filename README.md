@@ -1,1 +1,3 @@
-# AtCoder_submit_Code
+# AtCoderの回答用リポジトリ
+
+- Java
